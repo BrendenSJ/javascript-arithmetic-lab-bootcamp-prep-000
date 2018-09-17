@@ -1,10 +1,5 @@
-var a;
-var b;
-var number;
-
 function add(a, b) {
-  number = a + b;
-  return number;
+  return a + b
 }
 
 function subtract(a, b){
